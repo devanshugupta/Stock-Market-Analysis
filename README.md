@@ -1,6 +1,5 @@
 # Stock-Market-Analysis
 
-Real-Time Market Trends Streaming Pipeline
 This project demonstrates the deployment of a real-time data streaming pipeline using Kafka on AWS EC2. The pipeline is designed to deliver actionable insights into market trends through Python-based producer-consumer applications.
 
 Key Features:
