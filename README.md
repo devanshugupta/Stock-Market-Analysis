@@ -5,8 +5,9 @@ This project demonstrates the deployment of a real-time data streaming pipeline 
 
 Key Features:
 
-Real-Time Streaming: Utilized Apache Kafka for streaming and processing real-time data on AWS EC2 instances.
-Automated Data Cataloging: Leveraged AWS Glue to automate schema discovery and data organization.
-Efficient Storage: Used Amazon S3 for secure and scalable storage of streaming data.
-Seamless Querying: Integrated AWS Athena for running queries on the data lake, enabling data-driven decision-making.
+- Real-Time Streaming: Utilized Apache Kafka for streaming and processing real-time data on AWS EC2 instances.
+- Automated Data Cataloging: Leveraged AWS Glue to automate schema discovery and data organization.
+- Efficient Storage: Used Amazon S3 for secure and scalable storage of streaming data.
+- Seamless Querying: Integrated AWS Athena for running queries on the data lake, enabling data-driven decision-making.
+
 This pipeline is built to provide scalable and efficient solutions for analyzing market trends in real time.
